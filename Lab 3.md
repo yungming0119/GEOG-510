@@ -12,13 +12,10 @@
 
 ### Projects
 1. *An Unsupervised Machine Learning Approach for Multi-Dimensional Network Data Mining*
-[![IMAGE](https://github.com/yungming0119/GEOG-510/blob/main/project1.png)]
-`<iframe src="https://onedrive.live.com/embed?cid=B30494012EB6EC6A&resid=B30494012EB6EC6A%211407424&authkey=AFy-5svVYhknhKA&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>`
+[![image](https://github.com/yungming0119/GEOG-510/blob/main/project1.png)](https://onedrive.live.com/embed?cid=B30494012EB6EC6A&resid=B30494012EB6EC6A%211407424&authkey=AFy-5svVYhknhKA&em=2)
 
 2. *Landslide Detection from Satellite Imagery Using a Deep Learning Technique*
-
-`<iframe src="https://onedrive.live.com/embed?cid=B30494012EB6EC6A&resid=B30494012EB6EC6A%211419584&authkey=ALEOOOtP2bKzpp8&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>`
-
+[![image](https://github.com/yungming0119/GEOG-510/blob/main/project2.png)](https://onedrive.live.com/embed?cid=B30494012EB6EC6A&resid=B30494012EB6EC6A%211419584&authkey=ALEOOOtP2bKzpp8&em=2")
 ### Labs
 * Interactive Map with Python
 ```python
@@ -29,4 +26,4 @@ wms_uri = "https://www.mrlc.gov/geoserver/NLCD_Land_Cover/wms?SERVICE=WMS&REQUES
 Map.add_wms_layer(url=wms_uri, layers='CONUS_Land_Cover', name='NLCD_Land_Cover', format='image/png', shown=True)
 Map
 ```
-`<iframe src="https://onedrive.live.com/embed?cid=B30494012EB6EC6A&resid=B30494012EB6EC6A%211447911&authkey=APNjvsXe8tl1tX8" width="320" height="180" frameborder="0" scrolling="no" allowfullscreen></iframe>`
+[![image](https://github.com/yungming0119/GEOG-510/blob/main/LAB2.png)](https://onedrive.live.com/embed?cid=B30494012EB6EC6A&resid=B30494012EB6EC6A%211447911&authkey=APNjvsXe8tl1tX8")
