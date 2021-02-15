@@ -12,7 +12,7 @@
 
 ### Projects
 1. *An Unsupervised Machine Learning Approach for Multi-Dimensional Network Data Mining*
-
+[![IMAGE](https://github.com/yungming0119/GEOG-510/blob/main/project1.png)]
 `<iframe src="https://onedrive.live.com/embed?cid=B30494012EB6EC6A&resid=B30494012EB6EC6A%211407424&authkey=AFy-5svVYhknhKA&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>`
 
 2. *Landslide Detection from Satellite Imagery Using a Deep Learning Technique*
