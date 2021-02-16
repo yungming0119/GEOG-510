@@ -10,6 +10,9 @@
 * Space-time Geographic Data Mining
 * Human Dynamics
 
+Publication
+* Shih, H. C., Stow, D. A., Tsai, Y. M., & Roberts, D. A. (2020). Estimating the starting time and identifying the type of urbanization based on dense time series of landsat-derived Vegetation-Impervious-Soil (VIS) maps–A case study of North Taiwan from 1990 to 2015. International Journal of Applied Earth Observation and Geoinformation, 85, 101987.
+
 ### Projects
 1. *An Unsupervised Machine Learning Approach for Multi-Dimensional Network Data Mining*
 [![image](https://github.com/yungming0119/GEOG-510/blob/main/project1.png)](https://onedrive.live.com/embed?cid=B30494012EB6EC6A&resid=B30494012EB6EC6A%211407424&authkey=AFy-5svVYhknhKA&em=2)
